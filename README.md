@@ -44,7 +44,7 @@
 |---------|-------------|------------|
 | **ConsoleMathApp** | A C# console app that calculates areas, deltas, and unit conversions | C#, .NET, NUnit |
 | **PC Serwis Mszczonów** | Web application for sending computer service requests to a local repair service | ASP.NET, C#, SQL Server, HTML/CSS |
-| **TaskManager** | Simple app to add and remove daily tasks and manage to-do lists | C#, .NET, Console Application |
+| **TaskManager** | Simple app to add and remove daily tasks and manage to-do lists | ASP.NET, C#, SQL Server, HTML/CSS |
 
 ---
 
