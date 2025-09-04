@@ -50,7 +50,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtrxo&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrxo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
